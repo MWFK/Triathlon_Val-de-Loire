@@ -1,0 +1,5 @@
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Domaine\bin\Debug\Triathlete.Domaine.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Domaine\bin\Debug\Triathlete.Domaine.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Domaine\obj\Debug\Triathlete.Domaine.csprojResolveAssemblyReference.cache
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Domaine\obj\Debug\Triathlete.Domaine.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Domaine\obj\Debug\Triathlete.Domaine.pdb

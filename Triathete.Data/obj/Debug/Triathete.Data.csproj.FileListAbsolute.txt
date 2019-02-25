@@ -1,0 +1,12 @@
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\Triathete.Data.dll.config
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\Triathete.Data.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\Triathete.Data.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\EntityFramework.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\Triathlete.Domaine.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\Triathlete.Domaine.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\EntityFramework.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\obj\Debug\Triathete.Data.csprojResolveAssemblyReference.cache
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\obj\Debug\Triathete.Data.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathete.Data\obj\Debug\Triathete.Data.pdb

@@ -1,0 +1,11 @@
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\Triathlete.Service.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\Triathlete.Service.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\Triathete.Data.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\Triathlete.Domaine.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\EntityFramework.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\Triathete.Data.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\Triathlete.Domaine.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\bin\Debug\EntityFramework.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\obj\Debug\Triathlete.Service.csprojResolveAssemblyReference.cache
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\obj\Debug\Triathlete.Service.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Service\obj\Debug\Triathlete.Service.pdb

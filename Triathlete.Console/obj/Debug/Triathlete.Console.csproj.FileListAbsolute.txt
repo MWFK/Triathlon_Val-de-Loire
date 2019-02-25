@@ -1,0 +1,16 @@
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Console.exe.config
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Console.exe
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Console.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\EntityFramework.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Domaine.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Service.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathete.Data.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Domaine.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathlete.Service.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\EntityFramework.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\bin\Debug\Triathete.Data.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\obj\Debug\Triathlete.Console.csprojResolveAssemblyReference.cache
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\obj\Debug\Triathlete.Console.exe
+C:\Users\zeineb\documents\visual studio 2015\Projects\TriathleteSolution\Triathlete.Console\obj\Debug\Triathlete.Console.pdb

@@ -1,0 +1,22 @@
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.dll
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.dll
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.pdb
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.pdb
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\zeineb\Desktop\docs\Mes documents ESPRIT\DotNet_\Architecture n-tiers\séance 4\SolutionTP-MyFinancePart2\MyFinanceFinal\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.pdb
